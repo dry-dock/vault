@@ -1,2 +1,3 @@
 # vault
-Docker image for vault
+
+Docker image for vault. Used for local installations.
